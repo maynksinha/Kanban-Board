@@ -1,5 +1,4 @@
-# quicksell_fe_test
-Quicksell's assignment for front-end developer role at IIT BHU Varanasi
+
 
 ## Steps to run this on your machine
 1. make sure you have npm installed on your machine
